@@ -12,3 +12,5 @@ you can see:
 ```
 slam-hive-algorithm vins-fusion-stereo-imu [IMAGE ID] [CREATED] [SIZE]
 ```
+
+For source code, we just change the places where used to save trajectory and mapping result files.
